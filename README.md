@@ -1,6 +1,6 @@
 ### Hi there, welcome to my Github profile 👋
 ### 👨🏻‍ About Me
-My name is Agrey Tosira, I'm a Front-end Web Dev and currently studying on Informatics Engineering Bachelor's Degree.
+My name is Agrey Tosira, I'm a Front-end Web Dev and currently studying on Informatics Engineering Bachelor's Degree. <br/>
 My Portfolio : <a href="https://www.agreytosira.my.id">Click Here</a>
 
 ### 🛠 &nbsp;Tech Stack
