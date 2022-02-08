@@ -16,7 +16,7 @@ My name is Agrey Tosira, I'm a Front-end Web Dev and currently studying on Infor
 [![gmail](https://img.shields.io/badge/-agreytosira@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:agreytosira@gmail.com)
 
 ### :computer: &nbsp;My Website
-[My Portfolio] : <a href="https://www.agreytosira.my.id">www.agreytosira.my.id</a>
+[My Portfolio] : <a href="https://www.agreytosira.my.id">www.agreytosira.my.id</a><br/>
 [My Blog] : <a href="https://blog.agreytosira.my.id">blog.agreytosira.my.id</a>
 
 
