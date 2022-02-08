@@ -1,7 +1,6 @@
 ### Hi there, welcome to my Github profile 👋
 ### 👨🏻‍ About Me
 My name is Agrey Tosira, I'm a Front-end Web Dev and currently studying on Informatics Engineering Bachelor's Degree. <br/>
-My Portfolio : <a href="https://www.agreytosira.my.id">Click Here</a>
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat&logo=HTML5)&nbsp;
@@ -17,6 +16,9 @@ My Portfolio : <a href="https://www.agreytosira.my.id">Click Here</a>
 [![gmail](https://img.shields.io/badge/-agreytosira@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:agreytosira@gmail.com)
 
 ### :computer: &nbsp;My Website
+[My Portfolio] : <a href="https://www.agreytosira.my.id">www.agreytosira.my.id</a>
+[My Blog] : <a href="https://blog.agreytosira.my.id">blog.agreytosira.my.id</a>
+
 
 
 
