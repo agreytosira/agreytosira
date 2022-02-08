@@ -16,7 +16,7 @@ My Portfolio : <a href="https://www.agreytosira.my.id">Click Here</a>
 ### 📫 &nbsp;Connect with Me
 [![gmail](https://img.shields.io/badge/-agreytosira@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:agreytosira@gmail.com)
 
-### :computer: &nbps;My Website
+### :computer: &nbsp;My Website
 
 
 
