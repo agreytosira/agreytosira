@@ -29,8 +29,8 @@ My name is Agrey Tosira, I'm a Front-end Web Developer and currently studying on
 [My Blog] : <a href="https://blog.agreytosira.my.id">blog.agreytosira.my.id</a><br/>
 [My 2nd Blog] : <a href="https://hobbyteknoid.blogspot.com">hobbyteknoid.blogspot.com</a><br/>
 
-
-
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=agreytosira&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Isallkun github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agreytosira&layout=compact&theme=radical&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 
