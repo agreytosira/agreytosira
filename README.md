@@ -5,10 +5,10 @@
 ### 👦🏻‍ About Me
 My name is Agrey Tosira, I'm a Front-end Web Developer and currently studying on Informatics Engineering Bachelor's Degree. <br/>
 
-- 🔭 I'm currently working on my personal project.
+- 🔭 I'm currently working on our Company Project.
 - 🌱 I'm currently learning Javascript and Front-end Web Development.
-- ⚡ I'm excited to create Javascript things.
-- 😄 I'm natively speak Indonesian.
+- ⚡ I'm excited to develop Front-end Things.
+- 😄 I'm natively speak Bahasa Indonesia.
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat&logo=HTML5)&nbsp;
