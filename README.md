@@ -24,3 +24,9 @@ I am skilled in responsive design, ensuring that my websites are optimized for a
 ### :computer: &nbsp;My Website
 [My Portfolio] : <a href="https://www.agreytosira.my.id">www.agreytosira.my.id</a><br/>
 [My Blog] : <a href="https://hobbytekno.com">hobbytekno.com</a><br/> <br/>
+
+## GitHub Statistic
+<p>
+<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=agreytosira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=agreytosira&layout=compact&langs_count=8&theme=algolia"/>
+</p>
