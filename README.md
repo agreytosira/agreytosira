@@ -1,6 +1,8 @@
-### Hi there, welcome to my Github profile 👋
+# Hi there, welcome to my Github profile 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=agreytosira&color=brightgreen)
+
+![1701361890516](https://github.com/agreytosira/agreytosira/assets/44093021/ffc7de24-3a4f-4521-904f-f5a6aa238199)
 
 ### 👦🏻‍ About Me
 My name is Agrey Tosira, I'm a Front-end Web Developer and currently studying on Informatics Engineering Bachelor's Degree. As a Front-End Web Developer, I have a strong passion for creating beautiful and user-friendly websites. With over 2 years of experience as a Freelancer, I have developed a strong understanding of HTML, CSS, and JavaScript, as well as frameworks such as Bootstrap.
