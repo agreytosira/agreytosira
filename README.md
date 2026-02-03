@@ -2,7 +2,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=agreytosira&color=brightgreen)
 
-![1701361890516](https://github.com/agreytosira/agreytosira/assets/44093021/ffc7de24-3a4f-4521-904f-f5a6aa238199)
+![1767972799401](https://github.com/user-attachments/assets/c7b844ce-5f39-4bd5-bb98-7db35ceb6982)
+
 
 ### 👦🏻‍ About Me
 My name is Agrey Tosira, I'm a Front-end Web Developer and currently studying on Informatics Engineering Bachelor's Degree. As a Front-End Web Developer, I have a strong passion for creating beautiful and user-friendly websites. With over 3 years of experience as a Freelancer, I have developed a strong understanding of HTML, CSS, and JavaScript, ReactJs as well as frameworks such as NextJS.
