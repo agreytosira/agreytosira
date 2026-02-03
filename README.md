@@ -6,9 +6,9 @@
 
 
 ### 👦🏻‍ About Me
-My name is Agrey Tosira, I'm a Front-end Web Developer and currently studying on Informatics Engineering Bachelor's Degree. As a Front-End Web Developer, I have a strong passion for creating beautiful and user-friendly websites. With over 3 years of experience as a Freelancer, I have developed a strong understanding of HTML, CSS, and JavaScript, ReactJs as well as frameworks such as NextJS.
+My name is Agrey Tosira, I'm a Front-end Web Developer and i have a strong passion for creating beautiful and user-friendly websites. With over `4+ years` of experience as a Freelancer, I have developed a strong understanding of HTML, CSS, JavaScript and TypeScript, as well as frameworks such as TailwindCSS, ReactJS and NextJS.
 
-I am skilled in responsive design, ensuring that my websites are optimized for all devices and screen sizes. I am always seeking new challenges and opportunities to further develop my skills as a Front-End Web Developer. If you are looking for someone with a strong work ethic and a passion for creating beautiful websites, please don't hesitate to reach out. <br/>
+I'm experienced in responsive design, ensuring that my websites are optimized for all devices and screen sizes. I am always seeking new challenges and opportunities to further develop my skills as a Front-End Web Developer. If you are looking for someone with a strong work ethic and a passion for creating beautiful websites, please don't hesitate to reach out. </br>
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,8 +31,7 @@ I am skilled in responsive design, ensuring that my websites are optimized for a
 [![gmail](https://img.shields.io/badge/-agreytosira@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:agreytosira@gmail.com)
 
 ### :computer: &nbsp;My Website
-[My Portfolio] : <a href="https://www.agreytosira.my.id">www.agreytosira.my.id</a><br/>
-[My Blog] : <a href="https://hobbytekno.com">hobbytekno.com</a><br/> <br/>
+[My Portfolio] : <a href="https://www.agreytosira.my.id">agreytosira.my.id</a><br/>
 
 ### GitHub Statistic
 <p>
