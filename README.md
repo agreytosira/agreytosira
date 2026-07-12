@@ -6,7 +6,7 @@
 
 
 ### 👦🏻‍ About Me
-My name is Agrey Tosira, I'm a Front-end Web Developer and i have a strong passion for creating beautiful and user-friendly websites. With over `4+ years` of experience as a Freelancer, I have developed a strong understanding of HTML, CSS, JavaScript and TypeScript, as well as frameworks such as TailwindCSS, ReactJS and NextJS.
+My name is Agrey Tosira, I'm a Front-end Web Developer and i have a strong passion for creating beautiful and user-friendly websites. With over `5+ years` of experience as a Freelancer, I have developed a strong understanding of HTML, CSS, JavaScript and TypeScript, as well as frameworks such as TailwindCSS, ReactJS and NextJS.
 
 I'm experienced in responsive design, ensuring that my websites are optimized for all devices and screen sizes. I am always seeking new challenges and opportunities to further develop my skills as a Front-End Web Developer. If you are looking for someone with a strong work ethic and a passion for creating beautiful websites, please don't hesitate to reach out. </br>
 
